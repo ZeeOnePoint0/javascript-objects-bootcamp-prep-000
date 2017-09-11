@@ -1,4 +1,4 @@
-var playlist = new Object({periphery: 'The Bad Thing'});
+var playlist = new Object({Kanye: 'Gold Digger'});
 
 function updatePlaylist(obj, artist, song) {
 
